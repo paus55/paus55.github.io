@@ -1,0 +1,36 @@
+p {
+  color: red;
+  font-size: 30;
+}
+img {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  display: block;
+}
+h1 {
+  text-align: center;
+  color: blue;
+  margin: 0;
+  text-shadow: 2px 2px 1px black;
+  padding: 20px 0;
+}
+li {
+  line-height: 2;
+}
+li:hover {
+  color: blue;
+  line-height: 3;
+  letter-spacing: 2px;
+}
+html {
+  font-family: 'Gamja Flower', cursive;
+  background-color: black;
+}
+body {
+  margin: 0 auto;
+  width: 600px;
+  background-color: #FF9500;
+  padding: 0 20 20 20;
+  border: 5px solid white;
+}
